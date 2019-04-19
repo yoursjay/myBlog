@@ -1,0 +1,7 @@
+{
+    "python.pythonPath": "C:\\Users\\JAY\\AppData\\Local\\Programs\\Python\\Python36\\python.exe",
+    "python.workspaceSymbols.tagFilePath": "${workspaceFolder}/.vscode/tags\" ],",
+	"python.linting.pylintArgs": [
+        "--load-plugins=pylint_django"
+    ],
+}
